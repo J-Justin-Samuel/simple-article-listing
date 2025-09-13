@@ -7,7 +7,7 @@ DevChallenges help you improve your coding skills by building realistic projects
 
 ## 📸 Screenshot
 
-![Preview Screenshot](./images/preview.png)  
+![Preview]([./images/preview.png](https://github.com/J-Justin-Samuel/simple-article-listing/blob/06a685b93c28a0a7f721a2fefa9d2752d42d7524/thumbnail.jpg))  
 
 ---
 
